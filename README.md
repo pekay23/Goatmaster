@@ -15,7 +15,6 @@ the following conditions. The following definitions shall have the same
 meaning regardless of whether they appear in singular or in plural.
 
 Definitions
-~~~~~~~~~~~
 
 For the purposes of this Privacy Policy:
 
@@ -223,7 +222,6 @@ there are adequate controls in place including the security of Your data and
 other personal information.
 
 Delete Your Personal Data
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You have the right to delete or request that We assist in deleting the
 Personal Data that We have collected about You.
