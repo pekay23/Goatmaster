@@ -1,4 +1,4 @@
-# goatmaster
+# Goatmaster
 Privacy Policy
 Last updated: December 09, 2025
 
